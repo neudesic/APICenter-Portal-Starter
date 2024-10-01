@@ -1,5 +1,5 @@
 {
-  "dataApiHostName": "neu-demo-apicenter-apic.data.eastus.azure-apicenter.ms/workspaces/default",
+  "dataApiHostName": "neu-demo-integration-apicenter-apic.data.eastus.azure-apicenter.ms/workspaces/default",
   "title": "Neudesic API portal",
   "authentication": {
       "clientId": "68479d4a-26a9-458a-803a-0aef8f66e53a",
