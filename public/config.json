@@ -1,4 +1,8 @@
 {
+  "globalHeaders": {
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Methods": "GET, OPTIONS"
+  },
   "dataApiHostName": "neu-demo-integration-apicenter-apic.data.eastus.azure-apicenter.ms/workspaces/default",
   "title": "Neudesic API portal",
   "authentication": {
