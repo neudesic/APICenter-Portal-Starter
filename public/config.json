@@ -1,0 +1,11 @@
+{
+    "dataApiHostName": "neu-demo-apicenter-apic.data.eastus.azure-apicenter.ms/workspaces/default",
+    "title": "API portal",
+    "authentication": {
+        "clientId": "68479d4a-26a9-458a-803a-0aef8f66e53a",
+        "tenantId": "687f51c3-0c5d-4905-84f8-97c683a5b9d1",
+        "scopes": ["https://azure-apicenter.net/user_impersonation"],
+        "authority": "https://login.microsoftonline.com/"
+    },
+    "scopingFilter": ""
+  }
