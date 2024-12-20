@@ -33,7 +33,7 @@ export const ApiFilters = {
     lifecycleStage: {
         label: "Lifecycle",
         options: [
-            { value: "design", label: "Design" },
+            { value: "Design", label: "Design" },
             { value: "development", label: "Development" },
             { value: "testing", label: "Testing" },
             { value: "preview", label: "Preview" },
