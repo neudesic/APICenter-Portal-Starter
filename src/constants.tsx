@@ -22,7 +22,7 @@ export const ApiFilters = {
     kind: {
         label: "API type",
         options: [
-            { value: "rest", label: "REST" },
+            { value: "REST", label: "REST" },
             { value: "graphql", label: "GraphQL" },
             { value: "grpc", label: "gRPC" },
             { value: "soap", label: "SOAP" },
