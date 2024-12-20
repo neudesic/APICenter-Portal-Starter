@@ -79,6 +79,7 @@ const ApiCard: FC<{ api: Api }> = ({ api }) => {
                         <div className={css.tags}>
                             <span>API</span>
                             <span>{api.kind}</span>
+                            <span>{api.lifecycleStage}</span>
                         </div>
                     )}
                     <h4>{api.title}</h4>

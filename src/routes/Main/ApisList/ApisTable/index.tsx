@@ -47,6 +47,7 @@ const ApisTable: FC<{ apis: Api[] | null }> = ({ apis }) => {
                                     {api.description}
                                 </TableCellLayout>
                             </TableCell>
+                            <TableCell>{api.lifecycleStage}</TableCell>
                             <TableCell>{new Date(api.lastUpdated || Date.now()).toLocaleDateString()}</TableCell>                            {/* <TableCell>TODO</TableCell> */}
                             {/* <TableCell>TODO</TableCell> */}
                         </TableRow>
